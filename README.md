@@ -24,5 +24,10 @@ The system depends on:
 - Buttons and navigation inputs
 - Real-time hardware interaction
 
-## Note
-This project was developed as a graduation project.
+
+
+## Important Note
+
+Our project is a hardware-based system, so it must be tested using the real smart cane hardware components.
+
+For accurate testing and evaluation, the project should be demonstrated physically in the college or during the discussion session, because the system depends on real-time interaction between the hardware and the software.
